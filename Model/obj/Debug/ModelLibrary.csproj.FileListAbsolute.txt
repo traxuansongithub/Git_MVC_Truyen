@@ -1,0 +1,12 @@
+E:\Hoc\visual\MVC ASP.Net\Fist_Hello\Model\bin\Debug\Model.dll.config
+E:\Hoc\visual\MVC ASP.Net\Fist_Hello\Model\bin\Debug\Model.dll
+E:\Hoc\visual\MVC ASP.Net\Fist_Hello\Model\bin\Debug\Model.pdb
+E:\Hoc\visual\MVC ASP.Net\Fist_Hello\Model\bin\Debug\EntityFramework.dll
+E:\Hoc\visual\MVC ASP.Net\Fist_Hello\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Hoc\visual\MVC ASP.Net\Fist_Hello\Model\bin\Debug\EntityFramework.xml
+E:\Hoc\visual\MVC ASP.Net\Fist_Hello\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Hoc\visual\MVC ASP.Net\Fist_Hello\Model\obj\Debug\ModelLibrary.csprojAssemblyReference.cache
+E:\Hoc\visual\MVC ASP.Net\Fist_Hello\Model\obj\Debug\ModelLibrary.csproj.CoreCompileInputs.cache
+E:\Hoc\visual\MVC ASP.Net\Fist_Hello\Model\obj\Debug\ModelLibrary.csproj.CopyComplete
+E:\Hoc\visual\MVC ASP.Net\Fist_Hello\Model\obj\Debug\Model.dll
+E:\Hoc\visual\MVC ASP.Net\Fist_Hello\Model\obj\Debug\Model.pdb

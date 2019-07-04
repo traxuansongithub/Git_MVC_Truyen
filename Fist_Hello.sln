@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fist_Hello", "Fist_Hello\Fist_Hello.csproj", "{869AAECE-39AC-4B4D-AC1B-553132FD68A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelLibrary", "Model\ModelLibrary.csproj", "{19A32621-DA44-4F4A-B7BE-448199E55266}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{869AAECE-39AC-4B4D-AC1B-553132FD68A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{869AAECE-39AC-4B4D-AC1B-553132FD68A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{869AAECE-39AC-4B4D-AC1B-553132FD68A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{869AAECE-39AC-4B4D-AC1B-553132FD68A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19A32621-DA44-4F4A-B7BE-448199E55266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A32621-DA44-4F4A-B7BE-448199E55266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A32621-DA44-4F4A-B7BE-448199E55266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A32621-DA44-4F4A-B7BE-448199E55266}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22A62D3E-240B-4AD5-A12B-760C575117A9}
+	EndGlobalSection
+EndGlobal
